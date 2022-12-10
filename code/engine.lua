@@ -33,12 +33,6 @@
         name="quantity",
         default=quantity,
         W=1.6, H=0.8, X=7.5, Y=2.1,
-      },{
-        label="X",
-        command="addbutton",
-        variant="_exit",
-        name="exit",
-        W=0.8, H=0, Y=2, X=2,
       },{X=7.18,label="Created with SX Digi labs Touch Designer",Y=8,command="addlabel"}
     })
   end
